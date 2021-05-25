@@ -1,7 +1,14 @@
 # Neural Network
 
 ## About
-A basic OOP implementation of a neural network for the recognition of handwritten digits. 
+A basic OOP implementation of a neural network for the recognition of handwritten digits.
+
+### A Note Regarding the Convolutional and Pooling layer scripts:
+*They were created while I was exploring how convolutional and pooling layers could be coded.*
+
+*Unfortunately I didn't find the time to complete the backpropagation for the layers, but I didn't want to lose the work I had done so far, as I intend to finish this project sometime over the summer, hence I decided to include the code in this repository as well.*
+
+*(I also thought these were pretty cool and the way I managed to capture the essence of forward propagation for these layers is something I'm very proud of.)*
 
 **Libraries Used**:
 - [NumPy](https://numpy.org/)
