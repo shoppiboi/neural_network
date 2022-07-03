@@ -1,7 +1,7 @@
 # Neural Network
 
 ## About
-A basic OOP implementation of a neural network for the recognition of handwritten digits.
+A basic OOP implementation of a neural network for the recognition of handwritten digits. This was made to get a better understanding of how convolutional neural networks work "under the hood". 
 
 ### A Note Regarding the Convolutional and Pooling layer scripts:
 *They were created while I was exploring how convolutional and pooling layers could be coded.*
